@@ -1,4 +1,4 @@
-# O-que-voce-ouve-na-verdade-o-que-voce-e.
+# O que você ouve, na verdade, é o que você é.
 ## Sobre o Projeto
  Esse site foi feito baseado na atividade passada pelo professor @gabaugusto do Instituto PROA, onde o objetivo era criar um site com um álbum/playlist de músicas para que as pessoas nos conhecesssem pelo que ouvimos.
  
