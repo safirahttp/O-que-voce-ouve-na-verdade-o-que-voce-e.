@@ -15,5 +15,10 @@
     <li> CSS </li>
     <li> Imagens do Google </li>
   </ul>
+  
+  <h2> Links pessoais </h2>
+  <ul>
+    <li> Linkedin: www.linkedin.com/in/ellen-teixeira-2127b9232 </li>
+  </ul>
 </body>
 </html>
