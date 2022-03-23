@@ -8,6 +8,8 @@
   <p> O trabalho tinha o objetivo de se criar um site com um álbum de músicas para que as pessoas nos conhecessem através do que ouvimos. Então, venho-lhes apresentar o meu site chamado "i n t o m y h e a d" e meu álbum "vibe", ele tem uma interface simples e um pouco interativa. </p>
   
   <h2> Layout do Projeto </h2>
+  ![Isso é uma imagem](/imagens/layout1)
+  ![Isso é uma imagem](/imagens/layout2)
   
   <h2> Tecnologias utilizadas </h2>
   <ul>
@@ -19,6 +21,7 @@
   <h2> Links pessoais </h2>
   <ul>
     <li> Linkedin: www.linkedin.com/in/ellen-teixeira-2127b9232 </li>
+    <li> Email profissional: ellen.http4@gmail.com </li>
   </ul>
 </body>
 </html>
