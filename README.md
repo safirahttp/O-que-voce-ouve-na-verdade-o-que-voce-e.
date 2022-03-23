@@ -8,8 +8,9 @@
   <p> O trabalho tinha o objetivo de se criar um site com um álbum de músicas para que as pessoas nos conhecessem através do que ouvimos. Então, venho-lhes apresentar o meu site chamado "i n t o m y h e a d" e meu álbum "vibe", ele tem uma interface simples e um pouco interativa. </p>
   
   <h2> Layout do Projeto </h2>
-  (https://github.com/safirahttp/O-que-voce-ouve-na-verdade-o-que-voce-e./blob/main/O%20que%20voc%C3%AA%20ouve%2C%20na%20verdade%2C%20%C3%A9%20o%20que%20voc%C3%AA%20%C3%A9/imagens/layout1.png)
-  (/../imagens/layout2.png)
+  ![layout1](https://user-images.githubusercontent.com/99822361/159721184-159f1019-0fc0-4c11-a47f-a75730e2de1b.png)
+  ![layout2](https://user-images.githubusercontent.com/99822361/159721191-89f4be2d-2815-4402-b637-b42438eb7834.png)
+
   
   <h2> Tecnologias utilizadas </h2>
   <ul>
