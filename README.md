@@ -21,5 +21,5 @@
     - Fontes do Google
   
 ## Links pessoais
-    - Linkedin: www.linkedin.com/in/ellen-teixeira-2127b9232
+    - Linkedin: www.linkedin.com/in/ellensteixeira
     - Email profissional: ellen.http4@gmail.com
